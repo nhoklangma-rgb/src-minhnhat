@@ -1,0 +1,21 @@
+# Build output
+target/
+dist/
+build/
+*.class
+*.jar
+
+# Logs — không commit log vào repo
+logs/
+
+# NetBeans
+nbproject/private/
+nb-configuration.xml
+
+# IDE
+*.iml
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
